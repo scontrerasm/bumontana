@@ -1,0 +1,1 @@
+Place the script and the raw data refered (a CSV table) within in the same directory and set your working directory within RStudio to THAT folder. 
